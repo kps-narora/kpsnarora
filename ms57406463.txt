@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Office 365 - place in the website root",
+  "Domain": "kpsnarora.org",
+  "Id": "675030cd-becd-4c5c-bc66-6ea0ac29c6e4"
+}
